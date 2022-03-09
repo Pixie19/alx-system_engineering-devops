@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo $(($TRUEKNOWLEDGE+128))
+
+© 2022 GitHub, Inc.
+
+Terms
+
